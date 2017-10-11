@@ -21,3 +21,5 @@ $ cd virtualenvname
 $ ./bin/pip install -r your_path/MailUp-Assignment/requirements.txt
 $ ./bin/python your_path/MailUp-Assignment/main.py
 ```
+
+[Documentation](https://gist.github.com/mz1991/f3b861223e76405c5bf07dabda5e6516)
